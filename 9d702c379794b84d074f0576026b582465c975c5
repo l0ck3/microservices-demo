@@ -1,0 +1,1 @@
+{"jobID":"84bb0f94-bcc3-be11-4040-2b843d959120","spec":{"type":"policy","cause":{"Message":"","User":"Yann IRBAH \u003cyann.irbah@gmail.com\u003e"},"spec":{"sock-shop:deployment/front-end":{"add":{"automated":"true"},"remove":null}}},"result":null}
