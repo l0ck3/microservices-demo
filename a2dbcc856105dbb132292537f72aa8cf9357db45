@@ -1,0 +1,1 @@
+{"jobID":"49f8f348-4db9-f82f-946e-43ad81390e64","spec":{"type":"policy","cause":{"Message":"test","User":"undefined"},"spec":{"sock-shop:deployment/front-end":{"add":{"automated":"true","automated_msg":"test"},"remove":null}}},"result":null}
